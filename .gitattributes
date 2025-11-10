@@ -1,0 +1,39 @@
+# ==========================================
+# Standardized line endings for all systems
+# ==========================================
+* text=auto
+
+# ==========================================
+# Handle common file types cleanly
+# ==========================================
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# ==========================================
+# Enforce UTF-8 encoding where possible
+# ==========================================
+*.py text working-tree-encoding=UTF-8
+*.txt text working-tree-encoding=UTF-8
+*.md text working-tree-encoding=UTF-8
+
+# ==========================================
+# Treat notebooks and data files as binary
+# ==========================================
+*.ipynb binary
+*.csv binary
+*.xls binary
+*.xlsx binary
+*.parquet binary
+*.pkl binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# ==========================================
+# End of file
+# ==========================================
