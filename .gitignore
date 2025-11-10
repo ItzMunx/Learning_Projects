@@ -1,0 +1,66 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.tmp
+
+# ============================
+# Environment / Virtual Env
+# ============================
+.env
+.env.*
+venv/
+env/
+.venv/
+.venv*/
+
+# ============================
+# VS Code / IDE Config
+# ============================
+.vscode/
+.idea/
+
+# ============================
+# System Files
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Build / Distribution
+# ============================
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# ============================
+# Jupyter / Data Files
+# ============================
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+*.xls
+*.ods
+*.json
+*.xml
+
+# ============================
+# Project Specific
+# ============================
+*.zip
+*.rar
+*.7z
+*.bak
+*.old
+*.swp
+*.log
