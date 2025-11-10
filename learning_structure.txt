@@ -1,0 +1,176 @@
+========================================================
+MASTER PYTHON LEARNING STRUCTURE (TEMPLATE)
+========================================================
+
+----------------------------------------
+CORE PYTHON CONCEPTS (Main Categories)
+----------------------------------------
+1. Variables & Data Types
+   - numbers (int, float)
+   - strings
+   - booleans
+   - type conversion
+   - input/output
+   - sep=, end=
+
+2. Operators
+   - arithmetic (+ - * / // % **)
+   - comparison (== != > < >= <=)
+   - logical (and, or, not)
+
+3. Strings
+   - slicing
+   - find(), replace()
+   - f-strings
+   - concatenation
+   - useful methods: .lower(), .upper(), .split()
+
+4. Conditionals
+   - if / elif / else
+   - nested conditions
+   - boolean logic
+
+5. Loops
+   - for loops
+   - while loops
+   - range()
+   - break/continue
+
+6. Functions
+   - parameters
+   - return values
+   - scope
+   - docstrings
+
+7. Collections
+   - lists
+   - tuples
+   - dictionaries
+   - sets
+   - list operations (append, pop, slicing)
+
+8. File Handling
+   - read
+   - write
+   - append
+   - with open()
+
+9. Errors & Debugging
+   - try/except
+   - basic debugging skills
+
+10. Modules & Packages
+   - import basics
+   - standard library usage
+   - creating your own modules
+
+11. OOP (Beginner Level)
+   - classes
+   - methods
+   - __init__
+
+========================================================
+LEARNING TIERS
+========================================================
+
+========================================================
+BEGINNER TIER
+========================================================
+Purpose: Build fundamental syntax and reasoning.
+
+A. Guided Problems
+   - Fully guided with hints
+   - Focus on syntax, fundamentals
+   - Example topics: variables, strings, basic math
+
+B. Guided Mini Projects
+   - 5–20 minute projects
+   - Reinforce syntax and simple logic
+   - Examples: BMI calculator, Password checker
+
+C. Recommended Practice Amount
+   - 40–60 guided problems
+   - 20–30 guided mini-projects
+   - Skill review after each 20 tasks
+
+========================================================
+INTERMEDIATE TIER
+========================================================
+Purpose: Build independence, problem-solving + structure.
+
+A. Unguided Problems
+   - Designed to solve using cheat sheet + Google
+   - No hints unless stuck
+
+B. Unguided Mini Projects
+   - Build full logic on your own
+   - 20–60 minute projects
+
+C. Full Projects (semi-guided)
+   - 1–3 hour apps
+   - Require data structures, functions, file IO
+   - Examples: Budget Tracker, Workout Logger, Text-based game
+
+D. Recommended Practice Amount
+   - 50+ unguided problems
+   - 10+ unguided mini-projects
+   - 3–5 full projects
+   - Skill review at midpoint + end
+
+========================================================
+ADVANCED TIER
+========================================================
+Purpose: Real development skills.
+
+A. Large Projects
+   - automation scripts
+   - API integration
+   - data analysis
+   - small apps
+
+B. Architecture Thinking
+   - separating files
+   - modules
+   - reusable functions
+
+C. Testing
+   - unit tests
+   - debugging skills
+
+D. Real Tools
+   - Git/GitHub workflows
+   - virtual environments
+   - installing packages (pip/uv/poetry)
+
+Recommended: 3–5 advanced projects
+
+========================================================
+EXPERT TIER
+========================================================
+Purpose: Build production-level software.
+
+A. Specialization Path
+   - choose one:
+     * Automation engineering
+     * Data engineering
+     * Machine learning
+     * Back-end development
+     * Trading algorithm development (YOUR PATH)
+
+B. Expert-Level Projects
+   - end-to-end applications
+   - API integrations
+   - multi-file architecture
+   - feature expansions
+
+C. Portfolio/Resume Level Projects
+   - build tools you can show an employer:
+     * Data dashboard
+     * Full trading backtesting engine
+     * Web app with FastAPI
+     * Discord bot + automation
+     * LLM-assisted toolchains
+
+========================================================
+END TEMPLATE
+========================================================
